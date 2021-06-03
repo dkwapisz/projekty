@@ -1,4 +1,4 @@
-**JAVA PROJECTS**
+**JAVA**
 
 1. ProjektJPWP2021 - Rougelike game 2D (JAVAFX)
 2. Samochod2D - Basic car simulator 2D
