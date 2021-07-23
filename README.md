@@ -1,9 +1,10 @@
 **JAVA**
 
-1. ProjektJPWP2021 - Rougelike game 2D (JAVAFX)
+1. ProjektJPWP2021 - Rougelike game 2D (JavaFX)
 2. Samochod2D - Basic car simulator 2D
 3. Tanks2D - game 2D
-4. Visualisation of Sorting Algorithms - VoSA
+4. Visualisation of Sorting Algorithms - VoSA (JavaFX + Maven)
+5. TheRaccAttack - game based on Super Mario (incomplete project)
 
 **WEB APPLICATIONS**
 
